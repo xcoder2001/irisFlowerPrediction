@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #eef2f3;
+    padding: 40px;
+    background-image: url(flower1.jpg);
+    background-size: cover;
+    }
+input {
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+    background-color: transparent;
+    border:1px solid #fffadc;
+    color:#FFFDF6;
+    border-radius:8px;
+    }
+
+input::placeholder {
+  color: rgba(255, 255, 255, 0.6); /* Light white */
+}
+button {
+    padding: 10px 25px;
+    background-color: transparent;
+    border: none;
+    color:#FADA7A;
+    font-weight: bold;
+    cursor: point;
+    border:1px solid #F5F0CD;
+    border-radius: 8px;
+    }
+
+
+h2{
+    color:#FFFADC;
+}
